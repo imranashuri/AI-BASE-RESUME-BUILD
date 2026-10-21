@@ -19,7 +19,8 @@ A single-page web application that helps users build a resume: pick a template, 
 
 <img width="1339" height="608" alt="two" src="https://github.com/user-attachments/assets/eb87b094-65a1-4579-ac3b-8fba61ad4c78" />
 
-<img width="1339" height="608" alt="two" src="https://github.com/user-attachments/assets/5b7043d2-e186-4734-8162-3c2ecb234a6b" />
+<img width="1308" height="606" alt="three" src="https://github.com/user-attachments/assets/52a37a98-f35d-40ec-9fcf-abcc2bcc105e" />
+
 
 
 
