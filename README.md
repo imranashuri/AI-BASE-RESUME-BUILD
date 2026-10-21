@@ -14,11 +14,13 @@ A single-page web application that helps users build a resume: pick a template, 
 - **ATS score** – scores the resume out of 100 and lists tips to improve it.
 - **Export** – Export PDF / Export Word buttons; export requires login and a non-empty resume.
 - **Responsive design** – works on mobile, tablet and desktop, and supports light and dark mode.
-
+# Papular template:
 - <img width="1331" height="617" alt="one" src="https://github.com/user-attachments/assets/dee38691-e494-48ad-980c-55229fea17c2" />
 
+# Papular template:
 <img width="1339" height="608" alt="two" src="https://github.com/user-attachments/assets/eb87b094-65a1-4579-ac3b-8fba61ad4c78" />
 
+# Used to template:
 <img width="1308" height="606" alt="three" src="https://github.com/user-attachments/assets/52a37a98-f35d-40ec-9fcf-abcc2bcc105e" />
 
 
